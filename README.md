@@ -32,7 +32,7 @@ sistema-universitario/
 │   ├── DDL.sql             # Criação de tabelas
 │   └── DML.sql             # Inserção de dados
 │
-├── diagramas/               # Diagramas da Fase 1
+├── diagramas/               # Diagramas da 1a Entrega
 │   ├── caso-uso.md
 │   └── classes.md
 │
